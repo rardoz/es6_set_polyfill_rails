@@ -7,7 +7,7 @@ ES6 Sets with a bunch of convenience methods packaged for the Rails asset pipeli
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'smap'
+gem 'es6_set_polyfill_rails'
 ```
 
 And then execute:
