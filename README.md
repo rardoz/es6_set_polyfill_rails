@@ -1,6 +1,6 @@
 # Es6SetPolyfillRails - a forward polyfill for ES6 Maps packaged for the Rails asset pipeline
 
-ES6 Sets with a bunch of convenience methods packaged for the Rails asset pipeline. Compiled with browserify. es6_set_polyfill_rails.js was created by the awesome developer, [Mariusz Nowak](https://github.com/medikoo). You can take a look at the original repo hosted here [https://github.com/medikoo/es6-set](https://github.com/medikoo/es6-set).
+ES6 Sets with a bunch of convenience methods packaged for the Rails asset pipeline. Compiled with browserify. es6_set_polyfill_rails.js was created by the awesome developer, [John Friend](https://github.com/jfriend00). You can take a look at the original repo hosted here [https://github.com/medikoo/es6-set](https://github.com/jfriend00/ES6-Set).
 
 ## Installation
 
@@ -24,7 +24,7 @@ Add it to your Javascript manifest file
 
 ## Usage
 
-Check out the es6-set repo [https://github.com/medikoo/es6-set](https://github.com/medikoo/es6-set).
+Check out the es6-set repo [https://github.com/jfriend00/ES6-Set](https://github.com/jfriend00/ES6-Set).
 
 ## Development
 
